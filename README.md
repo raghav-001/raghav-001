@@ -1,6 +1,6 @@
 ### Hello everybody! :fire:👋<hr>
 Hi there! I'm V Raghav Anand, a passionate programmer and developer from Chennai, India:smiley:
-<img align="right" src="https://camo.githubusercontent.com/fa5a2e0658c4975f10ee1952f7c26e6276bd4e21c7e27103774104318738382b/68747470733a2f2f756e646f2e696f2f6d656469612f75706c6f6164732f66696c65732f467275737472617465645f70726f6772616d6d65722e676966">
+<img align="right" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" height=250 width=250>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=raghav-001.raghav-001)<br>
 - 🔭 Pursuing BTech in Computer Science at Vellore Institute of Technology, Chennai
