@@ -1,11 +1,11 @@
 ### Hello everybody! :fire:👋<hr>
 Hi there! I'm V Raghav Anand, a passionate programmer from Chennai, India:smiley:
 <img align="right" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" height=250 width=250>
-
-![](https://visitor-badge.laobi.icu/badge?page_id=raghav-001.raghav-001)<br>
+<br>
 - 🔭 Pursuing BTech in Computer Science at Vellore Institute of Technology, Chennai
 - 🌱 Currently learning the latest technologies on web development such as react, django apart from knowing the basic web dev languages such as HTML, PHP, JavaScript and MySQL
-- :computer: Love to code in languages such as C++, C, Python and Java when it comes to competitive programming
+- :computer: Love to code in languages such as C++, C, Python and Java when it comes to competitive programming. 
+- :couple: Created a game using python to create social-awareness about the corona-virus pandemic.
 - ⚡ Fun fact: Music lover, movie buff, cricket and football player!:wink:
 <br>
 
