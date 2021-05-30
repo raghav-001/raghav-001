@@ -29,7 +29,7 @@ Hi there! I'm V Raghav Anand, a passionate programmer and developer from Chennai
 </p>
 <br>
 
-<h3>Statistical analysis:</h3><hr>
+<h3>Statistical analysis:chart_with_upwards_trend::</h3><hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghav-001&show_icons=true&theme=tokyonight)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav-001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
