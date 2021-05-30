@@ -5,16 +5,16 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=raghav-001.raghav-001)<br><br>
 - 🔭 Pursuing BTech in Computer Science at Vellore Institute of Technology, Chennai
 - 🌱 Currently learning the latest technologies on web development such as react, nodejs, MySQL and much more
-- :computer: Love to code in languages such as C++, C, Python and Java 
+- :computer: Love to code in languages such as C++, C, Python and Java when it comes to competitive programming
 - ⚡ Fun fact: Music lover, movie buff, cricket and football player!:wink:
 
 
 ## ✉️ Find me on:
 
 
- <a href="https://github.com/raghav-001" target="_blank" rel="noopener noreferrer"> <img src="https://www.dsxhub.org/wp-content/uploads/2021/03/DataLab_-_Chapitre_0_-_Fabriquer_sa_station_de_mesure_connect_e_github-logo-640x320-1.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/v-raghav-anand-6967681b7" target="_blank" rel="noopener noreferrer"> <img src="https://www.smartrecruiters.com/blog/wp-content/uploads/2015/07/wpid-thumbnail-580b18bcf2d33f3c09c7407594e7f9651-1200x1200.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://www.instagram.com/raghs_01/" target="_blank" rel="noopener noreferrer"> <img src="https://play-lh.googleusercontent.com/h9jWMwqb-h9hjP4THqrJ50eIwPekjv7QPmTpA85gFQ10PjV02CoGAcYLLptqd19Sa1iJ" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.linkedin.com/in/v-raghav-anand-6967681b7" target="_blank" rel="noopener noreferrer"> <img src="https://www.smartrecruiters.com/blog/wp-content/uploads/2015/07/wpid-thumbnail-580b18bcf2d33f3c09c7407594e7f9651-1200x1200.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.instagram.com/raghs_01/" target="_blank" rel="noopener noreferrer"> <img src="https://play-lh.googleusercontent.com/h9jWMwqb-h9hjP4THqrJ50eIwPekjv7QPmTpA85gFQ10PjV02CoGAcYLLptqd19Sa1iJ" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://github.com/raghav-001" target="_blank" rel="noopener noreferrer"> <img src="https://www.dsxhub.org/wp-content/uploads/2021/03/DataLab_-_Chapitre_0_-_Fabriquer_sa_station_de_mesure_connect_e_github-logo-640x320-1.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  
 
 <br />
