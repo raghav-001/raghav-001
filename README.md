@@ -1,5 +1,5 @@
 ### Hello everybody! :fire:👋<hr>
-Hi there! I'm V Raghav Anand, a passionate programmer and developer from Chennai, India:smiley:
+Hi there! I'm V Raghav Anand, a passionate programmer from Chennai, India:smiley:
 <img align="right" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" height=250 width=250>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=raghav-001.raghav-001)<br>
