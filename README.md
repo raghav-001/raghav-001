@@ -9,7 +9,7 @@ Hi there! I'm V Raghav Anand, a passionate programmer from Chennai, India:smiley
 - ⚡ Fun fact: Music lover, movie buff, cricket and football player!:wink:
 <br>
 
-<h3>Find me on:envelope::</h3><hr>
+<h3>Find me:envelope::</h3><hr>
 
 
 <a href="https://www.linkedin.com/in/v-raghav-anand-6967681b7" target="_blank" rel="noopener noreferrer"> <img src="https://www.smartrecruiters.com/blog/wp-content/uploads/2015/07/wpid-thumbnail-580b18bcf2d33f3c09c7407594e7f9651-1200x1200.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
