@@ -12,7 +12,7 @@ Hi there! I'm V Raghav Anand, a passionate programmer from Chennai, India:smiley
 <h3>Find me:envelope::</h3><hr>
 
 
-<a href="https://www.linkedin.com/in/v-raghav-anand-6967681b7" target="_blank" rel="noopener noreferrer"> <img src="https://www.smartrecruiters.com/blog/wp-content/uploads/2015/07/wpid-thumbnail-580b18bcf2d33f3c09c7407594e7f9651-1200x1200.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.linkedin.com/in/v-raghav-anand" target="_blank" rel="noopener noreferrer"> <img src="https://www.smartrecruiters.com/blog/wp-content/uploads/2015/07/wpid-thumbnail-580b18bcf2d33f3c09c7407594e7f9651-1200x1200.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.instagram.com/raghs_01/" target="_blank" rel="noopener noreferrer"> <img src="https://play-lh.googleusercontent.com/h9jWMwqb-h9hjP4THqrJ50eIwPekjv7QPmTpA85gFQ10PjV02CoGAcYLLptqd19Sa1iJ" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://github.com/raghav-001" target="_blank" rel="noopener noreferrer"> <img src="https://www.dsxhub.org/wp-content/uploads/2021/03/DataLab_-_Chapitre_0_-_Fabriquer_sa_station_de_mesure_connect_e_github-logo-640x320-1.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  
