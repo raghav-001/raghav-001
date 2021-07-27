@@ -5,6 +5,7 @@ Hi there! I'm V Raghav Anand, a passionate programmer from Chennai, India:smiley
 <br>
 - 🔭 Pursuing B.Tech in Computer Science at Vellore Institute of Technology, Chennai
 - 🌱 Basic understanding of the latest front end web-development library, React JS. Skilled knowledge in the basic web development languages such as HTML, PHP, JavaScript and MySQL
+- 🧠 Experienced in working with preprocessing of raw datasets, building unsupervised and supervised Machine Learning algorithms, and its deployment in the Flask framework.
 - :computer: Love to code in languages such as C++, C, Python and Java when it comes to competitive programming. 
 - :couple: Created a game using python to create social-awareness about the corona-virus pandemic.
 - ⚡ Fun fact: Music lover, movie buff, cricket and football player!:wink:
