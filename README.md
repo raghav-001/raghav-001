@@ -20,7 +20,7 @@ Hi there! I'm V Raghav Anand, a passionate programmer from Chennai, India😌<br
  
 
 <br />
-<h3>Languages and Tools used:computer::</h3><hr>
+<h3>Languages and Tools used🖥️</h3><hr>
 <p>
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
@@ -41,7 +41,7 @@ Hi there! I'm V Raghav Anand, a passionate programmer from Chennai, India😌<br
 </p>
 <br>
 
-<h3>Statistical analysis:chart_with_upwards_trend::</h3><hr>
+<h3>Statistical analysis📈</h3><hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghav-001&show_icons=true&theme=tokyonight)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav-001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
