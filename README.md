@@ -8,7 +8,7 @@ Hi there! I'm V Raghav Anand, a passionate programmer from Chennai, India😌<br
 - 🧠 Experienced in working with preprocessing of raw datasets, building unsupervised and supervised Machine Learning algorithms, and its deployment in the Flask framework.
 - :computer: Love to code in languages such as C++, C, Python and Java when it comes to competitive programming. 
 - :couple: Created a game using python to create social-awareness about the corona-virus pandemic.
-- ⚡ Fun fact: Music lover, movie buff, cricket and football player!:wink:
+- ⚡ Fun fact: Music lover, movie buff, cricket and football player!😉
 <br>
 
 <h3>Find me✉️</h3><hr>
