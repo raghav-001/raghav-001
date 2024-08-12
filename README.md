@@ -5,7 +5,7 @@ Hi there! I'm V Raghav Anand, a passionate programmer from Chennai, India (Curre
 <br>
 - ✌️ Pursuing Master of Science in Computer Science, in University of Southern California (USC), Los Angeles
 - 🔭 Completed B.Tech in Computer Science at Vellore Institute of Technology, Chennai
-- 🌱 Experienced in creating full-stackw eb applciations using AngularJS, Node and Google Cloud backend. Basic understanding of the latest front end web-development library, React JS. Skilled knowledge in other basic web development languages such as HTML, PHP, JavaScript and MySQL
+- 🌱 Experienced in creating full-stack web applications using AngularJS, Node and Google Cloud backend. Basic understanding of the latest front end web-development library, React JS. Skilled knowledge in other basic web development languages such as HTML, PHP, JavaScript and MySQL
 - 🧠 Experienced in working with preprocessing of raw datasets, building unsupervised and supervised Machine Learning algorithms, and its deployment in the Flask framework.
 - :computer: Love to code in languages such as C++, C, Python and Java when it comes to competitive programming. 
 - :couple: Created a game using python to create social-awareness about the corona-virus pandemic.
