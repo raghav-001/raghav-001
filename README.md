@@ -1,7 +1,7 @@
 ### Hello techies! :fire:👋<hr>
 Hi there! I'm V Raghav Anand, a passionate programmer from Chennai, India (Currently in Los Angeles, USA)<br>
 <a href="https://raghav-001.github.io/portfolio">Click here to check my Portfolio website</a>
-<img align="right" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" height=250 width=250>
+<img align="right" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" height=200 width=200>
 <br>
 - ✌️ Pursuing Master of Science in Computer Science, in University of Southern California (USC), Los Angeles
 - 🔭 Completed B.Tech in Computer Science at Vellore Institute of Technology, Chennai
