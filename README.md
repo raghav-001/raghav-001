@@ -1,5 +1,5 @@
 ### Hello techies! :fire:👋<hr>
-Hi there! I'm V Raghav Anand, a passionate programmer from Chennai, India (Currently in Los Angeles, USA)<br>
+Hi there! I'm V Raghav Anand, a passionate programmer from Chennai, India (Currently in Denver, USA)<br>
 <a href="https://raghav-001.github.io/portfolio">Click here to check my Portfolio website</a>
 <img align="right" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif" height=150 width=170>
 <br>
